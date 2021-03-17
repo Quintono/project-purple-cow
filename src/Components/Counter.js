@@ -29,8 +29,8 @@ const Counter = () => {
 
   return (
     <div>
-      <p>{count}</p>
-      <button onClick={() => hitCounter()}>Count Purple Cows!</button>
+      <h1 className="Counter">{count}</h1>
+      <button onClick={() => hitCounter()}>Count Purple Cows</button>
     </div>
   );
 };

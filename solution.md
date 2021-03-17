@@ -15,3 +15,11 @@ By default the development server will listen on `3000`.
 You can specify a port by creating a `.env` file in the root of your directory, and addding:
 
 `PORT=<PORT_NUMBER>`
+
+## What else?
+
+Future I would probably add:
+
+- Themeing / better styling.
+- Api response is pretty fast on my computer/wifi, but could add some states to handle loading/failure, maybe a loading spinner of sorts.
+- Tests!
