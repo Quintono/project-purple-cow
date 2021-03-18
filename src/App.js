@@ -1,9 +1,8 @@
-import "./App.css";
 import Counter from "./Components/Counter";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <h1>Project Purple Cow!</h1>
       <Counter />
     </div>
